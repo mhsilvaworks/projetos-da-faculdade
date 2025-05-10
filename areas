@@ -9,6 +9,6 @@ int main () {
 
 triangulo = (basetrianA*alttrianC)/2;
 
-printf("Insira o valor do raio do circulo: ")
+printf("Insira o valor do raio do circulo: ");
 return 0;
 }
